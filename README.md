@@ -10,6 +10,7 @@ input: voice file(m4a)
 output: correct sentence, sentence corresponding to voice, json text of modified word
 
 
+
 function 2
 
 input: a picture of human face, sentence
